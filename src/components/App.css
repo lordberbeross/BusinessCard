@@ -1,0 +1,28 @@
+.container{
+	width: 550px;
+	height: 868px;
+	margin-left: 65px;
+	margin-top: 53px;
+	background: #23252C;
+	max-width: 73%;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	
+}
+.card-container{
+	background-color: white;
+	border-radius: 10px;
+	width: 317px;
+	height: 780px;
+	background-color: #1A1B21;
+	position: relative;
+
+}
+.card-container > img{
+	width: 317px;
+	height: 317px;
+	border-radius: 10px 10px 0px 0px;	
+
+}
